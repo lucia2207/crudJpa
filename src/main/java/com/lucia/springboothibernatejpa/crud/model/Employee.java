@@ -42,7 +42,6 @@ public class Employee {
     public Employee() {
     }
 
-
     public Employee(String firstName, String lastName, String employeeid, Role role) {
         this.firstName = firstName;
         this.lastName = lastName;
